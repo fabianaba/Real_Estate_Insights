@@ -1,5 +1,5 @@
 # House Rocket Real Estate Insights
-[Insights Project] <i>This in an ongoing project.</i> The repository contains codes for the porfolio analysis at a fictitious real estate company.<br>
+[Insights Project] The repository contains codes for the porfolio analysis at a fictitious real estate company.<br>
 
 ![House_Rocket](https://github.com/fabianaba/Real_Estate_Insights/blob/master/images/houserocket.png)
 
@@ -22,23 +22,22 @@ House Rocket business model consists of purchasing and reselling properties thro
 <br>
 
 ## 2. Business Results
-Based on business criteria, from 21,436 available properties, 10,707 should be bought by House Rocket and could result on a US$1,249,116,423.00 profit. <br>
-Maximum Value Invested: US$4,163,721,410.00<br>
-Maximum Value Returned: US$5,412,837,833.00<br>
-Maximum Expected Profit: US$1,249,116,423.00<br>
+Based on business criteria, from 21,436 available properties, 10,707 should be bought by House Rocket and could result on a US$1,193,412,640.20 profit. <br>
+Maximum Value Invested: US$4,094,212,008.00<br>
+Maximum Value Returned: US$5,287,624,648.20<br>
+Maximum Expected Profit: US$1,193,412,640.20<br>
 
-Revenue forecast: 30.0% gross revenue
+Revenue forecast: 29.14% gross revenue
 <br><br>
 
 ## 3. Business Assumptions
 * The data available is from May 2014 to May 2015.
-* --------- Properties with bedrooms disproportional with interior living squarefoot were deleted, assuming it was an input error.
 * Seasons of the year:<br>
    * Spring starts on March 21st<br>
    * Summer starts on June 21st<br>
    * Fall starts on September 23rd<br>
    * Winter starts on December 21d<br>
-
+  
 * Original dataset variables description:<br>
 
 Variable | Definition
@@ -65,7 +64,7 @@ Variable | Definition
 |sqft_living15 | The square footage of interior housing living space for the nearest 15 neighbors|
 |sqft_lot15 | The square footage of the land lots of the nearest 15 neighbors|
 
-* -------Variables created during the project development:
+* Variables created during the project development:
 
 Variable | Definition
 ------------ | -------------
@@ -73,13 +72,7 @@ Variable | Definition
 | median_price_zipcode | median price of zipcode region |
 | selling_price_suggestion | 30% more on buying price, if property should be bought |
 | expected_profit | difference between buying price and selling price suggestion  |
-| dist_fromlake | distance from the center of Evergreen Point Floating Bridge |
 | season | season property became available |
-| med_autumn | median price from properties available during autumn  |
-| med_spring | median price from properties available during spring |
-| med_summer | median price from properties available during summer |
-| med_winter | median price from properties available during winter |
-| season_to_sell | in which season property should be sold |
 
 * Business criteria to determine wether a property should be bought are:
    * Property must have a 'condition' equals or bigger than 3.
