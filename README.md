@@ -5,10 +5,10 @@
 
 
 ## Real Estate Insights:
-The objetives of this project are:
+The objectives of this project are:
 * Perform exploratory data analysis on properties available on dataset.
-* Determine which properties should be bougth according to business criteria.
-* Develop an online [dashboard](https://analytics-house-rocket-sales.herokuapp.com/) that can be acessed by the CEO from a cell phone or computer.
+* Determine which properties should be bought according to business criteria.
+* Develop an online [dashboard](https://analytics-house-rocket-sales.herokuapp.com/) that can be accessed by the CEO from a cell phone or computer.
 <br>
 
 ## 1. Business Problem
