@@ -36,7 +36,7 @@ Revenue forecast: 29.14% gross revenue
    * Spring starts on March 21st<br>
    * Summer starts on June 21st<br>
    * Fall starts on September 23rd<br>
-   * Winter starts on December 21d<br>
+   * Winter starts on December 21st<br>
   
 * Original dataset variables description:<br>
 
