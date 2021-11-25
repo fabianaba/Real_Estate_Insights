@@ -91,18 +91,11 @@ Variable | Definition
 10. Dashboard deploy on [Heroku](https://analytics-house-rocket-sales.herokuapp.com/)
 <br>
 
-## 5. Top 4 Data Insights
-1. After the 80s, number of properties built with basements decreased
-2. Almost 60% of the properties became available during summer/spring.
-3. 50% of properties that should be bought are in a 15km radius from the lake.
-4. Properties selected to be bought in a 15km radius from lake correspond to 60% of expected profit.
-<br>
-
-## 6. Conclusion
-The objective of this project was to create a online dashboard to House Rocket's CEO. Deploying the dashboard on Heroku platforms provided the CEO acess from anywhere facilitating data visualization and business decisions.
+## 5. Conclusion
+The objective of this project was to create an online dashboard to House Rocket's CEO. Deploying the dashboard on Heroku platforms provided the CEO acess from anywhere facilitating data visualization and business decisions.
 <br><br>
 
-## 7. Next Steps
+## 6. Next Steps
 * Determine which season of the year would be the best to execute a sale
 * Get more address data to fill NAs
 * Expand the methodology to other regions operated by House Rocket
