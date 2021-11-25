@@ -1,5 +1,5 @@
 # House Rocket Real Estate Insights
-[Insights Project] The repository contains codes for the porfolio analysis at a fictitious real estate company.<br>
+[Insights Project] This repository contains codes for the porfolio analysis at a fictitious real estate company.<br>
 
 ![House_Rocket](https://github.com/fabianaba/Real_Estate_Insights/blob/master/images/houserocket.png)
 
